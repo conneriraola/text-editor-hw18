@@ -46,3 +46,6 @@ THEN I should have proper build scripts for a webpack application
 
 Deployed App: https://text-editor-homework18.herokuapp.com/
 Github: https://github.com/conneriraola/text-editor-hw18
+
+## Screenshot
+<img src="client/src/images/screenshot.png" width="300px">
