@@ -43,3 +43,6 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Links
+
+Deployed App: https://text-editor-homework18.herokuapp.com/
+Github: https://github.com/conneriraola/text-editor-hw18
