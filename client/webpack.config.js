@@ -56,6 +56,7 @@ module.exports = () => {
             options: {
               presents: ['@babel/present-env'],
               plugins: [
+                '@babel/plugin-proposal-object-rest-spread',
                 '@babel/transform-runtime',
               ],
             },
